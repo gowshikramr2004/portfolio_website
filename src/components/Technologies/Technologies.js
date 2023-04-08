@@ -8,8 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range a technologies in both web development and electronics world!.
     </SectionText>
     <List>
       <ListItem>
@@ -29,10 +28,10 @@ const Technologies = () =>  (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Embedded-systems</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            arduino and stm 8266
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,10 +40,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>VHDL</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like modelsim
           </ListParagraph>
         </ListContainer>
       </ListItem>

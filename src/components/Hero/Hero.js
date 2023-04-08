@@ -12,8 +12,13 @@ const Hero = (props) => (
           Welcome To <br />
           My Personal Portfolio
         </SectionTitle>
+        Hey there, I'm Gowshik, an aspiring electronics engineer with skills in embedded systems, VLSI, and front-end development. I love building innovative projects and am always looking for new challenges to tackle. When I'm not tinkering with electronics, you can find me exploring the great outdoors or developing new websites. Thanks for stopping by!
+
+
+
+
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
